@@ -1,4 +1,4 @@
-## Hi there 👋 Meu nome é Alessandra e sou Analista de Dados.
+## Olá! 👋 Meu nome é Alessandra e sou Analista de Dados.
 
 
 Sou uma pessoa determinada, proativa e em constante busca por desenvolvimento pessoal, intelectual e profissional.
