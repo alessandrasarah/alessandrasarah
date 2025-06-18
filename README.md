@@ -3,7 +3,7 @@
 
 Sou uma pessoa determinada, proativa e em constante busca por desenvolvimento pessoal, intelectual e profissional.
 
-🎓 Atualmente, curso Análise e Desenvolvimento de Sistemas no SENAC-SP.
+🎓 Curso Análise e Desenvolvimento de Sistemas no SENAC-SP.
 
 📈 Tenho habilidade em SQL para manipulação e análise de dados.
 
