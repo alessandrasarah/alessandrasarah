@@ -11,9 +11,9 @@ Sou uma pessoa determinada, proativa e em constante busca por desenvolvimento pe
 
 🤱 Sou mãe solo de dois pequenos, Gabriel e Joaquim — minha maior motivação diária.
 
-😄 Nas horas vagas, gosto de aprender sobre tecnologia, estar em contato com a natureza e praticar atividades físicas.
+🌱 Nas horas vagas, gosto de aprender sobre tecnologia, estar em contato com a natureza e praticar atividades físicas.
 
-⚡ Pipeline pessoal: dados do café da manhã à noite — input com podcasts/artigos/aulas, output com prática diária em Python, SQL, Power BI entre outras ferramentas.
+
 
 <!--
 **alessandrasarah/alessandrasarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
