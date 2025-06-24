@@ -7,7 +7,7 @@ Sou uma pessoa determinada, proativa e em constante busca por desenvolvimento pe
 
 📈 Tenho habilidade em SQL para manipulação e análise de dados.
 
-🔭 Atualmente, estou trabalhando em projetos práticos usando SQL e PowerBI.
+🔭 Atualmente, estou trabalhando em projetos práticos usando SQL, Python e PowerBI.
 
 🤱 Sou mãe solo de dois pequenos, Gabriel e Joaquim — minha maior motivação diária.
 
